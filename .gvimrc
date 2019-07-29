@@ -1,4 +1,5 @@
-" Jitendra Bhamare
+" gvim config file.
+" Author: Jitendra Bhamare
 
 " --------------------------- colors -------------------------------------
 syntax enable   " Enable syntax processing
